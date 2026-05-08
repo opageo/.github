@@ -1,5 +1,4 @@
-<!-- Replace with actual logo/banner image -->
-<!-- <img src="https://raw.githubusercontent.com/opageo/.github/main/assets/banner.png" width="800"/> -->
+<img src="https://raw.githubusercontent.com/opageo/.github/main/assets/opageo_logo.png" width="200"/>
 
 # opageo
 
@@ -25,7 +24,7 @@ Simple to install, simple to use, with interfaces that don't get in your way.
 
 | Project | Description |
 |---|---|
-| [**atlantis**](https://github.com/opageo/atlantis) | ML-ready archive of satellite-derived flood inundation observations — ECMWF Code for Earth 2026 |
+| <img src="https://raw.githubusercontent.com/opageo/.github/main/assets/atlantis_logo.png" width="40"/> [**atlantis**](https://github.com/opageo/atlantis) | ML-ready archive of satellite-derived flood inundation observations — ECMWF Code for Earth 2026 |
 
 ---
 
